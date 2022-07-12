@@ -8,8 +8,12 @@
     <link rel="stylesheet" href="Site.css">
 </head>
 <body>
+    <?php
+    echo <<<TITLE
     <div class="Title">
         Seeker's Library
     </div>
+TITLE;
+    ?>
 </body>
 </html>
