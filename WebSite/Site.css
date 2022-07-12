@@ -1,0 +1,7 @@
+@charset "utf-8";
+.Title {
+    background-color: orange;
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+}
